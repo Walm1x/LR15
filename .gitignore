@@ -1,0 +1,42 @@
+# === Файлы компиляции и сборки (из методички) ===
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+
+# === Настройки IntelliJ IDEA (из методички + расширенный) ===
+.idea/
+*.iml
+*.iws
+out/
+gen/
+
+# === Настройки Visual Studio Code (из методички) ===
+.vscode/
+.history/
+
+# === Настройки Visual Studio (C++ / C#) ===
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+x64/
+Debug/
+Release/
+
+# === Системные файлы мусора (из методички) ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Логи и временные файлы ===
+*.log
+*.tmp
+*.bak
